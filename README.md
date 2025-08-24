@@ -1,4 +1,5 @@
 ✅ Overview
+
 This project implements a Convolutional Neural Network (CNN) using TensorFlow/Keras to classify handwritten digits (0–9) from the MNIST dataset.
 The model is trained on 60,000 images and tested on 10,000 images, achieving high accuracy.
 
